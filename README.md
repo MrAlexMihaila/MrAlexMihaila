@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alex Mihaila, a Computer Science student at the **University of Colorado Boulder** (Class of 2028)
 
-<!--
-**MrAlexMihaila/MrAlexMihaila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[ATrack](https://github.com/MrAlexMihaila/ATrack)** | `Node.js` `Express` `PostgreSQL` `Docker` | Full-stack music rating platform with letter grading and timestamped song comments |
+| **[Multi-Threaded DNS Resolver](https://github.com/MrAlexMihaila/MultiDNSResolver)** | `C` `POSIX Threads` | Multithreaded DNS lookup using producer-consumer thread pools and synchronization techniques |
+| **[Simple Character Device Driver](https://github.com/MrAlexMihaila/simpleCharacterDeviceDriver)** | `C` `Linux Kernel` | Loadable Linux kernel module implementing `read`, `write`, `seek`, `open`, and `release` file operations |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+- **Languages:** C, C++, Java, JavaScript, Python, GDScript, Scala, HTML/CSS
+- **Backend & Databases:** Node.js, Express, PostgreSQL, REST APIs
+- **Tools:** Linux, Docker, Git, Godot
